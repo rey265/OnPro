@@ -73,17 +73,6 @@ Rsync - DB BACKUP
 
 VPN(가상 사설 통신망)
 
-<br>
-
-## 🛠️ Application Architecture
-
-
-
-<br>
-
-## 📚 ERD
-
-!https://velog.velcdn.com/images/miracle-21/post/1ffc5b2f-79fe-440b-9061-96dbde0057b8/image.png
 
 <br>
 
