@@ -47,10 +47,10 @@
 <img src="https://github.com/rey265/OnPro/blob/main/onpro%20image/onpro_screenshots/onpro_home_page.png">
 
 <br>
-<img src="[https://github.com/rey265/OnPro/blob/main/onpro%20image/%EC%B5%9C%EC%A2%85.png](https://github.com/rey265/OnPro/blob/main/onpro%20image/onpro_screenshots/onpro_sign-in_page.png)">
+<img src="https://github.com/rey265/OnPro/blob/main/onpro%20image/onpro_screenshots/onpro_sign-in_page.png">
 <br>
 
-<img src="[https://github.com/rey265/OnPro/blob/main/onpro%20image/%EC%B5%9C%EC%A2%85.png](https://github.com/rey265/OnPro/blob/main/onpro%20image/onpro_screenshots/onpro_sign-in_page.png)">
+<img src="https://github.com/rey265/OnPro/blob/main/onpro%20image/onpro_screenshots/onpro_sign-in_page.png">
 
 <br>
 
