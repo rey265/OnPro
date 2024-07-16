@@ -102,3 +102,7 @@ https://sonrey.notion.site/OnPro-6c0932066f1b446d8ddd98ecb4fdbea5?pvs=4
 # 📝 발표 PPT:
 
 https://online.fliphtml5.com/viwpp/bifp/
+
+<br>
+
+<img src="https://github.com/rey265/OnPro/blob/main/onpro%20image/onpro.png">
