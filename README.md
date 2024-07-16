@@ -29,15 +29,13 @@
 
 <br>
 
-## 🔖 Topology
-<img src="https://github.com/rey265/OnPro/blob/main/onpro%20image/%EC%B5%9C%EC%A2%85%20%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80.png">
+## 🔖 최종 결과
+
+<img src="https://github.com/idoyoung1/OnPro/blob/main/OnPro-main/onpro%20image/%EC%B5%9C%EC%A2%85%20%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80.png">
 
 <br>
 
-<img src="https://github.com/rey265/OnPro/blob/main/onpro%20image/%EC%B5%9C%EC%A2%85.png">
-
-
-
+<img src="https://github.com/idoyoung1/OnPro/blob/main/OnPro-main/onpro%20image/%EC%B5%9C%EC%A2%85.png">
 
 ### 네트워크 시설 설계 및 관리운용 가능
 
@@ -92,19 +90,10 @@ VPN(가상 사설 통신망)
 # 📝 프로젝트 진행 관리: Notion
 
 ### 🔗 URL
-
-[https://sonrey.notion.site/OnPro-6c0932066f1b446d8ddd98ecb4fdbea5?pvs=4](https://www.notion.so/6c0932066f1b446d8ddd98ecb4fdbea5?pvs=21)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c6315c29-e6f0-4ef8-ae4a-30725b2eee09/4f76d7e7-14b2-4784-bb2c-be02f443f3e1/684783d6-ffaa-4c8b-9fa6-6b261f94f5ae.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c6315c29-e6f0-4ef8-ae4a-30725b2eee09/79bff9e5-a482-42e4-9931-f25174b22070/Untitled.png)
+https://sonrey.notion.site/OnPro-6c0932066f1b446d8ddd98ecb4fdbea5?pvs=4
 
 <br>
 
 # 📝 발표 PPT:
 
-[Project Team Notion OnPro (1)](https://www.notion.so/Project-Team-Notion-OnPro-1-c50bfc33118d453c970c3d34ebeff468?pvs=21)
-
----
-
-https://online.fliphtml5.com/viwpp/gydz/
+https://online.fliphtml5.com/viwpp/bifp/
