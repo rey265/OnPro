@@ -69,9 +69,7 @@ VPN(가상 사설 통신망)
 
 ## 🛠️ Application Architecture
 
-![최종.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c6315c29-e6f0-4ef8-ae4a-30725b2eee09/9140a233-528e-4dd2-9b45-4f5551f762ac/%EC%B5%9C%EC%A2%85.png)
 
-![최종 토폴로지.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c6315c29-e6f0-4ef8-ae4a-30725b2eee09/6100a42f-d885-43d3-af01-c09bbb325a71/09b48310-b90d-490a-b365-510441b4b943.png)
 
 <br>
 
