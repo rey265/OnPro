@@ -30,8 +30,8 @@
 <br>
 
 ## 🔖 Topology
-https://github.com/rey265/OnPro/blob/main/onpro%20image/%EC%B5%9C%EC%A2%85.png
-https://github.com/rey265/OnPro/blob/main/onpro%20image/%EC%B5%9C%EC%A2%85.png
+<img src="https://github.com/rey265/OnPro/blob/main/onpro%20image/%EC%B5%9C%EC%A2%85.png"> 
+<img src="https://github.com/rey265/OnPro/blob/main/onpro%20image/%EC%B5%9C%EC%A2%85.png"> 
 
 ### 네트워크 시설 설계 및 관리운용 가능
 
